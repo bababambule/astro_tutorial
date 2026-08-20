@@ -1,6 +1,7 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: My Fourth Blog Post
-author: Astro Learner
+author: BabaBambule
 description: "Using the markdown cheatsheet"
 image:
   url: "https://docs.astro.build/assets/rays.webp"
